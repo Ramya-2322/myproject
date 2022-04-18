@@ -1,0 +1,32 @@
+"ONLINE CRIME REPORTING SYSTEM"
+
+Presently there is no online web application available to report crime online. In order to report any complains associ
+ated with crime, people has to contact closest police station. People of the specific city are not aware of crime relate
+d matters such as list of Most wanted criminals of their town, newest crime related news, missing persons of the area
+etc..People must view News Chanels or Read News Paper for such offense related details. Thus we can say that pres
+ent platform is manual and does not supply all the information from 1 source
+Project Objective :
+The Objective of Crime Reporting System is to develop a web based program using which people can report crime o
+nline. It provides the facility of uploading images or videos of crime scenes to ensure that police may take action im
+mediately. It also supplies the advice of missing persons, most wanted criminals and security tips for the awarness of
+people.
+Online Crime Reporting System is an internet based Project developed using PHP and MySQL. The aim of Online
+Crime Reporting System will be to create a web based program using which people are able to report crime online. I
+t gives the facility of uploading videos or images of crime scenes to ensure that authorities can take action immediat
+ely.
+
+Abstract of Crime Reporting
+
+The capstone project entitled “Crime Reporting is a web and mobile based application which will facilitate the queri
+es and reports of crimes in the locality. The said project is available and accessible to the general public wherein the
+y are allowed to report an incident or crime using their mobile devices that are connected to the internet. On the othe
+r end, the ICT department of the police station will verify first the validity of report before a response will be made.
+Crime records will be archived for future reporting purposes.
+Crime Reporting and Archiving System was designed and developed in PHP, MySQL. It wi
+ll be implemented in the police station of every city, maintained by their ICT personnel.
+
+Rapid Application Development was the software development life cycle model used in the said project. After all th
+e steps were conducted, the researchers compiled the results of investigation and revised the necessary changes base
+d on the recommendations of end-users and IT experts. Expectations and requirements of the end-users were met an
+d therefore, the researchers recommend implementing and maintaining the project for the system provides a conveni
+ent and secure way of reporting crimes and incidents in the locality.
